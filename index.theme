@@ -1,0 +1,13 @@
+[Desktop Entry]
+Name=Mardi Gras
+Type=X-GNOME-Metatheme
+Comment=
+
+[X-GNOME-Metatheme]
+GtkTheme=Mardi Gras
+MetacityTheme=Mardi Gras
+IconTheme=Violetman
+GtkColorScheme=fg_color:#000,bg_color:#eeedee,text_color:#000,base_color:#fff,selected_fg_color:#fff,selected_bg_color:#773aaa,tooltip_fg_color:#000,tooltip_bg_color:#f6b539
+CursorTheme=default
+CursorSize=18
+NotificationTheme=ubuntu
